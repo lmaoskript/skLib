@@ -28,4 +28,4 @@ dependencies {
 
 Replace `<version>` with the version you want to use.
 
--# skLib is not affiliated with SkriptLang or any Skript addon.
+skLib is not affiliated with SkriptLang or any Skript addon.
