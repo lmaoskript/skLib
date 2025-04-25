@@ -1,0 +1,11 @@
+name: skLib
+version: '1.0.0'
+main: sk.addon.skLib.SkLib
+api-version: '1.20'
+load: STARTUP
+authors: [ skAddon ]
+description: this is NOT a skript addon
+commands:
+  sklib:
+    description: skLib
+    permission: op
